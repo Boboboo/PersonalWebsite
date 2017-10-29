@@ -110,7 +110,7 @@
     <!-- Footer-->
       <div class="footer">
           <div class="container">
-              <p>Developer: BoBo &copy; 2017-<?php $today = date("Y"); echo $today?>.</p>
+          <p>Copyright &copy; BoBo</p>
           </div>
       </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

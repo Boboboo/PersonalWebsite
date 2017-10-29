@@ -87,7 +87,7 @@
     <!-- Footer-->
     <div class="footer">
         <div class="container">
-            <p>Developer: BoBo &copy; 2017-<?php $today = date("Y"); echo $today?>.</p>
+            <p>Copyright &copy; BoBo</p>
         </div>
     </div>
 
