@@ -16,7 +16,7 @@ body{
     width:900px;
 }
 #demo{
-    color:#cf8750;
+    color:#f8d6ad;
 }
 .mepic{
   margin:20px auto;
@@ -29,7 +29,7 @@ body{
     letter-spacing: 1.5px;
     padding: 10px;
     margin-top: 100px;
-    color:rgba(148, 177, 230, 0.6);
+    color:rgba(148, 177, 230, 0.5);
 }
 
 /*buttons*/
@@ -42,14 +42,14 @@ body{
 
 .blue{
     color: white; 
-    background-color:#cf8750;
-    outline: medium;    
+    background-color:#f8d6ad;
+    outline: none;    
 }
 
 .blue:hover{
     background-color:white;
-    color:#cf8750; 
-    outline: medium;
+    color:#f8d6ad; 
+    outline: none;
 }
 
 /*middle UI*/
@@ -57,7 +57,7 @@ body{
     background-color:rgba(219, 166, 92, 0.5);
 }
 .modal-title{
-  color:#cf8750; 
+  color:#f8d6ad; 
 }
 
 /*Style the footer*/

@@ -23,13 +23,14 @@ body{
 
 .blue{
     color: white; 
-    background-color:#cf8750;
+    background-color:#f8d6ad;
+    color:#f8d4ad;
     outline: medium;    
 }
 
 .blue:hover{
     background-color:white;
-    color:#cf8750; 
+    color:#f8d6ad; 
     outline: medium;
 }
 

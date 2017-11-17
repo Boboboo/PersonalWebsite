@@ -16,7 +16,7 @@
         }
 
         .jumbotron{
-            background-color:rgba(235, 159, 18, 0.49);
+            background-color:rgba(219, 166, 92, 0.5);
             text-align: center;
             letter-spacing: 1.5px;
             padding-top:80px;
