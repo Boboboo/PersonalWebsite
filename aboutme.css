@@ -6,7 +6,7 @@ html{
 /*Background Image*/
 body{
     font-family: 'Quicksand', sans-serif;
-    background-color: rgba(7, 21, 43, 0.9);
+    background-color: rgba(7, 21, 43, 0.8);
     background-attachment: fixed;
     background-size: cover;   
 }
@@ -54,7 +54,7 @@ body{
 
 /*middle UI*/
 .modal-content{
-    background-color:rgba(219, 166, 92, 0.5);
+    background-color:rgba(219, 166, 92, 0.8);
 }
 .modal-title{
   color:#f8d6ad; 
