@@ -30,7 +30,7 @@
             background-color:rgba(219, 166, 92, 0.8);
         }
         .modal-title{
-            color:#cf8750; 
+            color:#f8d6ad; 
         }
       
     </style>
