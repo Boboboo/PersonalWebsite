@@ -6,7 +6,7 @@ html{
 /*Background Image*/
 body{
     font-family: 'Quicksand', sans-serif;
-    background-color: rgba(238, 137, 14, 0.1);
+    background-color: rgba(238, 137, 14, 0.2);
     background-attachment: fixed;
     background-size: cover;   
 }
